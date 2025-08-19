@@ -1,0 +1,9 @@
+body {
+    font-size: 8pt;
+}
+
+ a {
+      text-decoration: none;
+      color: #3498db;
+      font-weight: bold;
+    }
